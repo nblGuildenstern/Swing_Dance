@@ -1,0 +1,95 @@
+{
+    "moves": {
+        "basic step": {
+            "id": 0,
+            "name": "Basic Step",
+            "clip": "basic_step",
+            "difficulty": "1",
+            "Steps": "Open position | Get into cuddle"
+        },
+        "belt slide": {
+            "id": 1,
+            "name": "Belt Slide",
+            "clip": "belt_slide",
+            "difficulty": "1",
+            "Steps": "Open position | Do belt slide"
+        },
+        "cuddle": {
+            "id": 2,
+            "name": "Cuddle",
+            "clip": "cuddle",
+            "difficulty": "2",
+            "Steps": "Open position | Get into cuddle"
+        },
+        "pretzel": {
+            "id": 3,
+            "name": "Pretzel",
+            "clip": "pretzel",
+            "difficulty": "5",
+            "Steps": "Open position | Do belt slide"
+        },
+        "hammerlock": {
+            "id": 4,
+            "name": "Hammerlock",
+            "clip": "hammerlock",
+            "difficulty": "2",
+            "Steps": "Open position | Get into cuddle"
+        },
+        "gravedigger": {
+            "id": 5,
+            "name": "Gravedigger",
+            "clip": "gravedigger",
+            "difficulty": "7",
+            "Steps": "Open position | Do belt slide"
+        },
+        "princess_dip": {
+            "id": 6,
+            "name": "Princess Dip",
+            "clip": "princess_dip",
+            "difficulty": "4",
+            "Steps": "Open position | Get into cuddle"
+        },
+        "suicide_dip": {
+            "id": 7,
+            "name": "Suicide Dip",
+            "clip": "suicide_dip",
+            "difficulty": "6",
+            "Steps": "Open position | Do belt slide"
+        },
+        "tunnel": {
+            "id": 8,
+            "name": "Tunnel",
+            "clip": "tunnel",
+            "difficulty": "6",
+            "Steps": "Open position | Get into cuddle"
+        },
+        "tabletop": {
+            "id": 9,
+            "name": "Tabletop",
+            "clip": "tabletop",
+            "difficulty": "6",
+            "Steps": "Open position | Do belt slide"
+        },
+        "tornado": {
+            "id": 10,
+            "name": "Tornado",
+            "clip": "tornado",
+            "difficulty": "4",
+            "Steps": "Open position | Get into cuddle"
+        },
+        "window": {
+            "id": 11,
+            "name": "Window",
+            "clip": "window",
+            "difficulty": "5",
+            "Steps": "Open position | Do belt slide"
+        },
+        "triple_threat": {
+            "id": 12,
+            "name": "Triple Threat",
+            "clip": "triple_threat",
+            "difficulty": "5",
+            "Steps": "Open position | Get into cuddle"
+        }
+    }
+}
